@@ -1,2 +1,2 @@
 # faceMAKEUP
-基于face_recognition实现的人脸化妆只需更改faceDraw.py中的路径或将图片名更改即可给图片进行上色
+基于face_recognition实现的人脸化妆
